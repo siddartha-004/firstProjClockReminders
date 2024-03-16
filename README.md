@@ -34,5 +34,7 @@ It then advances tmp to the next node in the list.</p>
 <p>2.writes nn data to opened file and close file</p>
 <p>3.It pushes the filename onto a stack using the function SOPpush</p>
 <h3>SOPpush function (stack using sll)</h3>
-
+<p>1.create node with name as file name </p>
+<p>1.if top is null then nop is our first ele</p>
+<p>2.if not null then update pointers</p>
 
