@@ -1,4 +1,5 @@
-Individuals often face difficulty in managing their schedules and keep track of important events,tasks,deadlines.This is scalable and robust reminder solution that allow to schedule unlimited reminders.
+<h3>Individuals often face difficulty in managing their schedules and keep track of important events,tasks,deadlines.This is scalable and robust reminder solution that allow to schedule unlimited reminders.</h3><br>
+
 Concepts used:linked list,stack using linked list
 Flow chart of program:
 <img width="552" alt="image" src="https://github.com/siddartha-004/firstProjClockReminders/assets/113697558/438109a5-7e25-471c-b6ff-709f1998e3c4">
