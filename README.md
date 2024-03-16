@@ -44,8 +44,10 @@ It then advances tmp to the next node in the list.</p>
 <p><i>For each node (nn) in the redo stack, this part removes the file associated with the node's name (remove(nn->name)) and deallocates the memory allocated to the node (free(nn)).</i></p>
 <hr>
 Flow chart of program:
+<br>
 <img width="552" alt="image" src="https://github.com/siddartha-004/firstProjClockReminders/assets/113697558/438109a5-7e25-471c-b6ff-709f1998e3c4"><br>
-Results:
+<br>
+Results:<br>
 <img width="603" alt="image" src="https://github.com/siddartha-004/firstProjClockReminders/assets/113697558/4fcfb6bd-bc0d-4d8e-86ee-add13e1263fc">
 <img width="598" alt="image" src="https://github.com/siddartha-004/firstProjClockReminders/assets/113697558/89b3c079-05a5-48d0-84c0-d824db85e94a">
 <img width="587" alt="image" src="https://github.com/siddartha-004/firstProjClockReminders/assets/113697558/2ea74e17-3cec-4617-b3a4-17e669971181">
