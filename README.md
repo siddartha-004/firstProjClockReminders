@@ -1,8 +1,8 @@
 <h3>Individuals often face difficulty in managing their schedules and keep track of important events,tasks,deadlines.This is scalable and robust reminder solution that allow to schedule unlimited reminders.</h3><br>
 
-Concepts used:linked list,stack using linked list
+Concepts used: linked list,stack using linked list
 
-<p>Description of each module</p>
+<h2>Description of each module</h2>
 <h3>Push function for adding new remainder</h3>
 <p>1.new node is created that contain info of dn,mn,yn,th,tm,label(date,time)</p>
 <p>2.If list is empty , the new node becomes both the first and last node in the list. </p>
@@ -44,7 +44,7 @@ It then advances tmp to the next node in the list.</p>
 <p><i>For each node (nn) in the redo stack, this part removes the file associated with the node's name (remove(nn->name)) and deallocates the memory allocated to the node (free(nn)).</i></p>
 <hr>
 Flow chart of program:
-<img width="552" alt="image" src="https://github.com/siddartha-004/firstProjClockReminders/assets/113697558/438109a5-7e25-471c-b6ff-709f1998e3c4">
+<img width="552" alt="image" src="https://github.com/siddartha-004/firstProjClockReminders/assets/113697558/438109a5-7e25-471c-b6ff-709f1998e3c4"><br>
 Results:
 <img width="603" alt="image" src="https://github.com/siddartha-004/firstProjClockReminders/assets/113697558/4fcfb6bd-bc0d-4d8e-86ee-add13e1263fc">
 <img width="598" alt="image" src="https://github.com/siddartha-004/firstProjClockReminders/assets/113697558/89b3c079-05a5-48d0-84c0-d824db85e94a">
