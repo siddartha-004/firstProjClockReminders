@@ -37,4 +37,7 @@ It then advances tmp to the next node in the list.</p>
 <p>1.create node with name as file name </p>
 <p>1.if top is null then nop is our first ele</p>
 <p>2.if not null then update pointers</p>
+<h3>Display all remainders</h3>
+<p>1.if list empty display no remainders</p>
+<p>else print all remainders</p>
 
