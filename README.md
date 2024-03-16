@@ -49,3 +49,4 @@ It then advances tmp to the next node in the list.</p>
 <h3>Pop operations in nt,rdt</h3>
 <p>if 'u' push that file to rdt and update ny</p>
 <p>if 'r' push to nt and update rdt</p>
+<p><i>For each node (nn) in the redo stack, this part removes the file associated with the node's name (remove(nn->name)) and deallocates the memory allocated to the node (free(nn)).</i></p>
