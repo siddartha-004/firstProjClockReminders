@@ -40,4 +40,12 @@ It then advances tmp to the next node in the list.</p>
 <h3>Display all remainders</h3>
 <p>if list empty display no remainders</p>
 <p>else print all remainders</p>
-
+<p>ooprs used to perform redo and undo operations</p>
+<p>1.It opens a file based on whether the operation is undo ('u') or redo ('r').</p>
+<p>2.It reads the reminder data from the file.</p>
+<p>3.If the operation is undo and the reminder data matches an existing reminder in the list, it removes that reminder.</p>
+<p>4.If the operation is redo, it pushes a new reminder onto the list with the same data as read from the file.</p>
+<p>5.Finally, it pops an operation from the stack.</p>
+<h3>Pop operations in nt,rdt</h3>
+<p>if 'u' push that file to rdt and update ny</p>
+<p>if 'r' push to nt and update rdt</p>
